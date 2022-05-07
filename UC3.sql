@@ -1,0 +1,2 @@
+use AddressBookService;
+insert into Address_book(firstname, lastname, city, state, zip, phone, email) values('Himanshu', 'Dhangar', 'Nandurbar', 'Maharastra',425408, 9604315270, 'rajendragund@gmail.com' ),('Rahul', 'pal', 'Mumbai', 'WestBengal', 845700, 8138975257, 'himanshudhangar450@gmail.com' ),('Chandan', 'Tiwary', 'kolkata', 'Bihar', 794550, 81450945877, 'chandantiwary@gmail.com' ),('Arnab', 'Nath', 'chennai', 'TamilNaru', 7125487, 81494545879, 'arnabnath@gmail.com' );
