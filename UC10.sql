@@ -1,0 +1,1 @@
+SELECT COUNT(type) AS Number_Of_Contact_Person FROM Address_book;
