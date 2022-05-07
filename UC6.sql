@@ -1,0 +1,1 @@
+SELECT * FROM Address_book where city = 'Pune' or state = 'Maharashtra';
