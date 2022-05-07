@@ -1,0 +1,1 @@
+Alter table Address_book add type varchar(15) after lastname;update  Address_book set type='Family' where firstname ='Himanshu';update  Address_book set type='Friends' where firstname  ='Nikhil';update  Address_book set type='Profession' where firstname  ='Jaspal';SELECT * FROM Address_book;
