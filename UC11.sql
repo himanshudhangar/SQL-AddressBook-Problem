@@ -1,0 +1,1 @@
+SELECT * FROM addressbookservice.address_book;
